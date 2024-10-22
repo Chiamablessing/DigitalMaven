@@ -29,8 +29,8 @@ DigitalMaven is a full-stack MERN (MongoDB, Express.js, React, Node.js) applicat
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/freelyslah.git
-cd freelyslah
+git clone https://github.com/yourusername/DigitalMaven.git
+cd DigitalMavin
 ```
 
 ### Backend (API)
